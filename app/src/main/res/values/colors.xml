@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="connect">#DADA91</color>
+
+    <color name="lightGray">#ECECEC</color>
+    <color name="darkGray">#333333</color>
+    <color name="f5">#F6F2F6</color>
+
+    <color name="forgotpassword">#50C2C9</color>
+    <color name="signup">#134B4F</color>
+
+    <color name="bakcground">#F0F4F3</color>
+    <color name="statusbar">#50C2C9</color>
+
+
+    <color name="lightblue">#86A8CF</color>
+    <color name="darkblue">#0B1F37</color>
+    <color name="btn">#E1CBD7</color>
+    <color name="btn2">#C38EB4</color>
+    <color name="btn3">#C2D9FF</color>
+    <color name="bg">#DAFFFB</color>
+    <color name="tc">#37456C</color>
+
+
+
+
+    <color name="d1">#F3F0F0</color>
+</resources>

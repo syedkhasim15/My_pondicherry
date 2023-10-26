@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210354004089",
+    "project_id": "mypondicherry-ee0cf",
+    "storage_bucket": "mypondicherry-ee0cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210354004089:android:b362925a7bbab2761974a8",
+        "android_client_info": {
+          "package_name": "com.example.my_pondicherry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw-MNsyVTYCH-_q3JmGP57VeQteay95ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
